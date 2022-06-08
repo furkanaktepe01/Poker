@@ -1,4 +1,5 @@
 public enum RANKS {
+    
     TWO, THREE, FOUR, FIVE, SIX, SEVEN, EIGHT, NINE, TEN, JACK, QUEEN, KING, ACE;
 
     public static int value(RANKS rank) {
